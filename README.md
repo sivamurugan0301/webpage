@@ -52,6 +52,3 @@ Delete: Enter the ID of the entry to delete and click the "Delete" button.
 
 Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests.
-
-License
-This project is licensed under the MIT License. See the LICENSE file for more information.
